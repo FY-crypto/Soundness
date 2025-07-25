@@ -9,7 +9,8 @@ sudo apt update -y && sudo apt upgrade -y
 
 ### Install Rust
 ```
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh  && source $HOME/.cargo/env
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
+source $HOME/.cargo/env
 ```
 
 ### Install Cli Soundness
