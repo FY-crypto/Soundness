@@ -10,16 +10,18 @@ sudo apt update -y && sudo apt upgrade -y
 ### Install Rust
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
+```
+```
 source $HOME/.cargo/env
-```
-
-### Install Cli Soundness
-```
-curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
 ```
 ```
 rustc --verison
 ```
+### Install Cli Soundness
+```
+curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
+```
+
 
 ### Setelah install, jalankan perintah ini agar command-nya bisa dipakai
 ```
