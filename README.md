@@ -17,6 +17,9 @@ source $HOME/.cargo/env
 ```
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
 ```
+```
+rustc --verison
+```
 
 ### Setelah install, jalankan perintah ini agar command-nya bisa dipakai
 ```
