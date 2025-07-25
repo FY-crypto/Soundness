@@ -4,7 +4,7 @@
 
 ### Update
 ```
-Sudo apt update -y && Sudo apt upgrade -y
+sudo apt update -y && sudo apt upgrade -y
 ```
 
 ### Install Rust
